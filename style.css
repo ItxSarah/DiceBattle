@@ -1,0 +1,28 @@
+.dice1>img{
+    /* width: 200px; */
+}
+body{
+    background-color: red;
+}
+.dice1{
+    width: auto;
+    height: auto;
+
+}
+.dice2{
+    width: auto;
+    height: auto;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+header{
+    text-align: center;
+    font-family: "Playwrite AU NSW", cursive;   
+}
+#result{
+    font-size: 40px;
+    font-family: "Playwrite AU NSW", cursive;
+    font-weight: 900;
+}
